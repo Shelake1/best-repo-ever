@@ -1,2 +1,2 @@
 # best-repo-ever
-Just another repository
+My new repository
